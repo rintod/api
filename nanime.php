@@ -5,6 +5,7 @@
  * https://www.facebook.com/Con7ext
  * http://khususme.chatango.com/
  * http://rintoisback.chatango.com/
+ * --- RINTOD ---
  **/
 date_default_timezone_set("Asia/Jakarta");
 header("Content-type: application/json");
